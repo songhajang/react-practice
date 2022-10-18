@@ -1,0 +1,2 @@
+react 라우터 관리: npm install react-router-dom
+propTypes: npm add prop-types
